@@ -17,7 +17,7 @@ app = Flask(__name__)
 logging.basicConfig(level=logging.DEBUG)
 
 INSTANCE_URL = "https://api.maytapi.com/api"
-PRODUCT_ID = "XXXXXXXX-XXXXX-XXXXX-XXXX-XXXXXXXXXX"
+PRODUCT_ID = "
 PHONE_ID = "xxxxx"
 API_TOKEN = "XXXXXXXX-XXXXX-XXXXX-XXXX-XXXXXXXXXX"
 
